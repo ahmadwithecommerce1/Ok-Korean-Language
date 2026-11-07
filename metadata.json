@@ -1,0 +1,6 @@
+{
+  "name": "HanGuel Korean Language Centre",
+  "description": "Premium modern Korean language centre with certified native teachers, TOPIK-aligned curriculum, and live small-batch immersion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
